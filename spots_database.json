@@ -1,0 +1,865 @@
+[
+  {
+    "id": "na-rang-village",
+    "name": "Na Rang Village",
+    "name_local": "Bản Na Rang",
+    "country": "VN",
+    "region": "Ha Giang",
+    "lat": 22.62,
+    "lng": 104.55,
+    "category": "village",
+    "description_short": "A 300-soul Tay ethnic village in Xin Man district where traditional stilt houses dot the hillside and rice farming continues unchanged.",
+    "description_context": "Na Rang sits between Sapa and Ha Giang in the remote Xin Man district, reachable by local bus from Ha Giang (5 hours) or motorbike on scenic mountain roads. The Tay minority community runs a small homestay where visitors sleep in traditional stilt houses and share meals with the family. Best visited September-November when rice terraces turn golden.",
+    "crowd_level": 1,
+    "best_months": [
+      "September",
+      "October",
+      "November"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://homeiswhereyourbagis.com/na-rang-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "ethnic-minority",
+      "tay",
+      "homestay",
+      "rice-terraces",
+      "remote"
+    ]
+  },
+  {
+    "id": "thac-may-treo-waterfall",
+    "name": "Thac May Treo Waterfall",
+    "name_local": "Thác Mây Treo",
+    "country": "VN",
+    "region": "Da Nang",
+    "lat": 16.05,
+    "lng": 107.88,
+    "category": "waterfall",
+    "description_short": "Da Nang's largest waterfall hidden deep in the jungle, requiring a demanding 3-4 hour trek through river crossings and boulder scrambles.",
+    "description_context": "Located in the mountains of Hoa Vang district northwest of Da Nang, reaching Thac May Treo involves driving through Co Tu minority villages (Gian Bi, Ta Lang) then trekking 3 hours upstream along the Song Nam River. Swimmers must cross pools carrying gear in waterproof bags. A local guide is essential as the trail is unmarked. Best in dry season October-March; avoid rainy season due to flash flood risk.",
+    "crowd_level": 1,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "access_difficulty": "expert",
+    "source_urls": [
+      "https://www.rogue-vietnam.com/blog/exploring-da-nangs-biggest-waterfall"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "waterfall",
+      "jungle-trek",
+      "swimming",
+      "co-tu",
+      "remote",
+      "adventure"
+    ]
+  },
+  {
+    "id": "du-gia-waterfall",
+    "name": "Du Gia Waterfall",
+    "name_local": "Thác Dú Già",
+    "country": "VN",
+    "region": "Ha Giang",
+    "lat": 23.1947,
+    "lng": 105.2783,
+    "category": "waterfall",
+    "description_short": "A crystal-clear swimming hole tucked into the Ha Giang Loop that most riders breeze past, with cliff jumping and a tranquil village atmosphere.",
+    "description_context": "Du Gia sits about 70km from Ha Giang City via winding roads through Quan Ba Sky Gate and Yen Minh. The waterfall is free to access and offers natural pools perfect for swimming after days on dusty roads. The surrounding Du Gia village retains an authentic feel with Hmong homestays. Best October-June when weather is dry; the valley of flowers blooms October-November.",
+    "crowd_level": 2,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://junglebosstours.com/explorer/tourism-blog/du-gia-waterfall-ha-giang-2025"
+    ],
+    "source_type": "local_guide",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "waterfall",
+      "swimming",
+      "cliff-jumping",
+      "ha-giang-loop",
+      "motorbike"
+    ]
+  },
+  {
+    "id": "khuoi-ky-stone-village",
+    "name": "Khuoi Ky Stone Village",
+    "name_local": "Làng đá Khuổi Ky",
+    "country": "VN",
+    "region": "Cao Bang",
+    "lat": 22.83,
+    "lng": 106.7,
+    "category": "village",
+    "description_short": "A 400-year-old Tay settlement where homes are built entirely from local stone, perched above a river 2km from Ban Gioc waterfall.",
+    "description_context": "Khuoi Ky is in Dam Thuy commune, Trung Khanh district, along Provincial Road 206 en route to Ban Gioc waterfall. The village has about 14 stone stilt houses and several now operate as homestays. Visitors can explore Nguom Ngao cave and the Phuc Sen knife-making village nearby. Best combined with a Ban Gioc visit September-November for harvest scenery.",
+    "crowd_level": 2,
+    "best_months": [
+      "September",
+      "October",
+      "November"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://www.vietnamcoracle.com/ban-gioc-waterfall-an-illustrated-guide/",
+      "https://www.adventuresofjellie.com/vietnam/cao-bang-complete-guide"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "stone-houses",
+      "tay",
+      "ethnic-minority",
+      "heritage",
+      "homestay"
+    ]
+  },
+  {
+    "id": "na-lay-peak-bac-son",
+    "name": "Na Lay Peak (Bac Son Viewpoint)",
+    "name_local": "Đỉnh Nà Lay",
+    "country": "VN",
+    "region": "Lang Son",
+    "lat": 21.90123,
+    "lng": 106.33611,
+    "category": "viewpoint",
+    "description_short": "A 600m hilltop offering a sweeping 360-degree panorama over Bac Son Valley's patchwork rice fields and limestone karsts.",
+    "description_context": "Na Lay Peak is a 40-60 minute steep hike from the valley floor in Bac Son district, Lang Son province, about 3-4 hours from Hanoi by road. The trail has uneven stone steps — proper hiking shoes recommended. The valley below is most photogenic during rice harvest season (September-October) when fields glow golden. Few foreign tourists visit; mostly domestic photographers.",
+    "crowd_level": 2,
+    "best_months": [
+      "September",
+      "October"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://parfumdautomne.fr/en/bac-son-valley-in-northern-vietnam/",
+      "https://localvietnam.com/blog/bac-son-viewpoint-na-lay-peak/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "viewpoint",
+      "rice-fields",
+      "photography",
+      "hiking",
+      "karst"
+    ]
+  },
+  {
+    "id": "pu-luong-nature-reserve",
+    "name": "Pu Luong Nature Reserve",
+    "name_local": "Khu bảo tồn thiên nhiên Pù Luông",
+    "country": "VN",
+    "region": "Thanh Hoa",
+    "lat": 20.42,
+    "lng": 105.15,
+    "category": "trek",
+    "description_short": "A multi-day trek through terraced rice valleys and White Thai villages in a nature reserve that feels like Sapa without the crowds.",
+    "description_context": "Pu Luong is a 3-hour drive from Hanoi, often combined with nearby Mai Chau. The reserve offers 1-3 day treks through narrow valleys with rice paddies, crossing streams and passing through ethnic Thai communities in stilt-house villages. Homestays are the main accommodation. The area has grown from 2 to about 5 hotels since 2018 but remains far quieter than Sapa. Best visited September-November for golden rice or April-May for green terraces.",
+    "crowd_level": 3,
+    "best_months": [
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://worldwildbrice.net/2022/10/10/3-jours-trek-pu-luong/",
+      "https://beyondthebucketlist.co/not-your-basic-off-the-beaten-path-vietnam-itinerary-30-days/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "trekking",
+      "rice-terraces",
+      "thai",
+      "ethnic-minority",
+      "homestay",
+      "nature-reserve"
+    ]
+  },
+  {
+    "id": "ban-gioc-waterfall",
+    "name": "Ban Gioc Waterfall",
+    "name_local": "Thác Bản Giốc",
+    "country": "VN",
+    "region": "Cao Bang",
+    "lat": 22.854,
+    "lng": 106.724,
+    "category": "waterfall",
+    "description_short": "Vietnam's widest waterfall crashes 30 metres down across 300 metres of the jade-blue Quay Son River on the Chinese border.",
+    "description_context": "Ban Gioc is 90km northeast of Cao Bang city in Trung Khanh district. The falls are best reached by motorbike or bus via Cao Bang, which itself is 8 hours from Hanoi. September is optimal when summer rains feed the falls and rice harvest paints the surrounding fields. The road passes Phuc Sen knife-making village and Nguom Ngao cave. Mass tourism hasn't arrived yet — outside holidays, foreign visitors are few.",
+    "crowd_level": 3,
+    "best_months": [
+      "September",
+      "October",
+      "November"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://www.adventureswechase.com/ban-gioc-waterfall/",
+      "https://www.adventuresofjellie.com/vietnam/cao-bang-complete-guide",
+      "https://www.vietnamcoracle.com/ban-gioc-waterfall-an-illustrated-guide/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "waterfall",
+      "border",
+      "china",
+      "motorbike",
+      "photography",
+      "karst"
+    ]
+  },
+  {
+    "id": "paradise-cave-dark-cave-trek",
+    "name": "Paradise Cave Deep Trek (Dark Cave)",
+    "name_local": "Hang Thiên Đường",
+    "country": "VN",
+    "region": "Quang Binh",
+    "lat": 17.542,
+    "lng": 106.286,
+    "category": "cave",
+    "description_short": "A 7km spelunking adventure beyond Paradise Cave's tourist boardwalk into the vast unlit Dark Cave, with cathedral-sized chambers.",
+    "description_context": "Paradise Cave in Phong Nha-Ke Bang National Park extends over 31km, but only the first 1km is lit for regular tourists. A guided caving tour takes you 7km deeper into the Dark Cave section, scrambling over rocks in full caving gear with headlamps. The caverns are so massive they could fit entire stadiums. Book through local operators in Phong Nha village. The surrounding area features pristine karst mountains, rice paddies, and rural life with water buffaloes.",
+    "crowd_level": 2,
+    "best_months": [
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "access_difficulty": "hard",
+    "source_urls": [
+      "https://www.bucketlistly.blog/posts/paradise-cave-hiking-guide-phong-nha",
+      "https://bea-adventurous.com/phong-nha-2/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "caving",
+      "spelunking",
+      "adventure",
+      "national-park",
+      "unesco"
+    ]
+  },
+  {
+    "id": "dong-van-karst-plateau-trek",
+    "name": "Dong Van Karst Plateau Multi-Day Trek",
+    "name_local": "Cao nguyên đá Đồng Văn",
+    "country": "VN",
+    "region": "Ha Giang",
+    "lat": 23.27,
+    "lng": 105.36,
+    "category": "trek",
+    "description_short": "A multi-day trek between remote Hmong hill villages across Vietnam's northernmost karst plateau, a UNESCO Global Geopark.",
+    "description_context": "The trek traverses the Dong Van Karst Plateau Geopark in Ha Giang province, passing through villages accessible only on foot where Hmong communities still follow traditional ways. The landscape shifts from rice-terraced valleys to bare limestone pinnacles over several days. Accommodation is basic — sleeping on school floors or in homestays. Porters from local Hmong communities carry gear. October-November offers clear skies and golden rice; the Sunday Dong Van market is unmissable.",
+    "crowd_level": 2,
+    "best_months": [
+      "October",
+      "November"
+    ],
+    "access_difficulty": "hard",
+    "source_urls": [
+      "https://monkeystale.ca/2019/08/31/trekking-on-the-dong-van-karst-plateau/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "trekking",
+      "hmong",
+      "ethnic-minority",
+      "geopark",
+      "unesco",
+      "karst",
+      "remote"
+    ]
+  },
+  {
+    "id": "cao-bang-angel-eye-mountain",
+    "name": "Angel Eye Mountain",
+    "name_local": "Núi Mắt Thần",
+    "country": "VN",
+    "region": "Cao Bang",
+    "lat": 22.82,
+    "lng": 106.65,
+    "category": "viewpoint",
+    "description_short": "A dramatic limestone karst peak with a natural eye-shaped hole near its summit, overlooking lush valleys deep in Cao Bang province.",
+    "description_context": "Angel Eye Mountain (Nui Mat Than) is in Trung Khanh district, Cao Bang province, accessible by motorbike from Cao Bang city. The mountain features a striking natural hole in the rock face resembling an eye. It's best combined with visits to nearby Ban Gioc waterfall and Khuoi Ky stone village. The surrounding countryside features winding mountain roads through pastoral rice fields and bamboo groves. Few foreign tourists make it this far northeast.",
+    "crowd_level": 2,
+    "best_months": [
+      "September",
+      "October",
+      "November"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.adventuresofjellie.com/vietnam/cao-bang-complete-guide"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-03-31",
+    "tags": [
+      "viewpoint",
+      "karst",
+      "motorbike",
+      "photography",
+      "limestone"
+    ]
+  },
+  {
+    "id": "kon-kotu-bahnar-trek",
+    "name": "Kon Kotu Bahnar Village Trek",
+    "name_local": "Làng Kon Kotu",
+    "country": "VN",
+    "region": "Kon Tum",
+    "lat": 14.41667,
+    "lng": 108.18333,
+    "category": "trek",
+    "description_short": "A multi-day trek through Bahnar and Jarai minority villages near Kon Tum, where towering communal rong houses stand beside village churches.",
+    "description_context": "Starting from Kon Tum city, the 3-day trek passes through rural highlands of cassava, coffee, and rubber plantations before reaching remote Bahnar villages like Kon Kotu. Each village centres around an impressive nail-free wooden rong house used for community gatherings. Homestays are in traditional stilt houses. The area sees very few foreign visitors — infrastructure is minimal but Highland Eco Tours provides knowledgeable local guides.",
+    "crowd_level": 1,
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://en.endlesstravel.world/kon-tum-minority-villages/",
+      "https://solotravellerontourdotcom.wordpress.com/trekking-kon-tum/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "trekking",
+      "bahnar",
+      "jarai",
+      "ethnic-minority",
+      "communal-house",
+      "homestay",
+      "central-highlands"
+    ]
+  },
+  {
+    "id": "ta-xua-dinosaur-backbone",
+    "name": "Ta Xua Dinosaur Backbone",
+    "name_local": "Sống lưng khủng long Tà Xùa",
+    "country": "VN",
+    "region": "Son La",
+    "lat": 21.22,
+    "lng": 104.45,
+    "category": "mountain",
+    "description_short": "A jagged mountain ridge at 2865m where hikers walk above a vast sea of clouds at sunrise — the iconic 'dinosaur backbone' of northern Vietnam.",
+    "description_context": "Ta Xua straddles Bac Yen district (Son La) and Tram Tau district (Yen Bai), about 240km from Hanoi. Cloud hunting requires arriving before dawn — most drive from Bac Yen at 4:30am. The trek to the dinosaur backbone ridge is about 2km from the road. Overnight camping or homestays in Bac Yen are the main options. Cloud season runs December-March; January is the peak month for the sea-of-clouds phenomenon. Still considered off-the-beaten-path for foreign travellers.",
+    "crowd_level": 2,
+    "best_months": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "access_difficulty": "hard",
+    "source_urls": [
+      "https://fionatravelsfromasia.com/cloud-hunting-ta-xua-unique-experience-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "mountain",
+      "cloud-hunting",
+      "sunrise",
+      "trekking",
+      "camping",
+      "photography"
+    ]
+  },
+  {
+    "id": "ba-be-national-park",
+    "name": "Ba Be National Park",
+    "name_local": "Vườn quốc gia Ba Bể",
+    "country": "VN",
+    "region": "Bac Kan",
+    "lat": 22.41,
+    "lng": 105.62,
+    "category": "lake",
+    "description_short": "Vietnam's largest natural freshwater lake surrounded by limestone cliffs, old-growth jungle, and Tay minority villages reachable only by boat or foot.",
+    "description_context": "Ba Be Lake sits 200km north of Hanoi in Bac Kan province. The national park offers multi-day treks through isolated Tay villages, boat tours on the karst lake, and exploration of Puong Cave with its colony of 18,000 bats. Homestays along the lakeshore in Bo Lu village provide authentic experiences with local families. Getting there by public bus requires patience — transfers through Cho Don — but the remoteness is the reward. Best November-April for dry weather.",
+    "crowd_level": 2,
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.novo-monde.com/en/ba-be-national-park-northern-vietnam/",
+      "https://www.nomadasaurus.com/ba-be-national-park-lake-trekking-happy-water/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "lake",
+      "national-park",
+      "tay",
+      "ethnic-minority",
+      "trekking",
+      "cave",
+      "homestay",
+      "boat"
+    ]
+  },
+  {
+    "id": "ly-son-island",
+    "name": "Ly Son Island",
+    "name_local": "Đảo Lý Sơn",
+    "country": "VN",
+    "region": "Quang Ngai",
+    "lat": 15.38,
+    "lng": 109.09,
+    "category": "beach",
+    "description_short": "A volcanic island off central Vietnam with extinct craters, garlic fields in volcanic soil, and crystal-clear waters that few foreign travellers reach.",
+    "description_context": "Ly Son is a 30-minute fast ferry from Sa Ky port in Quang Ngai province. The island has three volcanic craters, dramatic black cliffs, and one of Vietnam's most dramatically situated beaches. Famous as the 'Kingdom of Garlic' for its garlic grown in volcanic soil. The smaller Dao Be island nearby is an absolute gem for snorkelling. Visit March-September for calm seas; avoid weekends when domestic tourists arrive. Foreign visitors remain rare.",
+    "crowd_level": 2,
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.vietnamcoracle.com/ly-son-island-travel-guide/",
+      "https://lifeofdoing.com/guide-ly-son-island-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "island",
+      "volcano",
+      "beach",
+      "snorkelling",
+      "garlic",
+      "crater",
+      "ferry"
+    ]
+  },
+  {
+    "id": "mu-cang-chai-la-pan-tan",
+    "name": "Mu Cang Chai (La Pan Tan Rice Terraces)",
+    "name_local": "Mù Cang Chải - La Pán Tẩn",
+    "country": "VN",
+    "region": "Yen Bai",
+    "lat": 21.78,
+    "lng": 104.07,
+    "category": "viewpoint",
+    "description_short": "Sculpted rice terraces cascade down mountain slopes near the Hmong village of La Pan Tan, including a famous star-shaped paddy with a homestay terrace view.",
+    "description_context": "Mu Cang Chai is reachable by overnight bus from Hanoi, dropped at the small mountain town around 4am. Motorbike rental is essential but harder to find than in tourist towns — expect to pay 300,000 VND/day. La Pan Tan village offers homestays with terrace views over the celebrated star-shaped rice field. The golden harvest season peaks late September-early October. May offers lush green terraces during the water-pouring season. Roads can be rough and the area has minimal English-speaking infrastructure.",
+    "crowd_level": 3,
+    "best_months": [
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://a-fab-journey.com/golden-rice-fields-mu-cang-chai/",
+      "https://worldwildbrice.net/2019/12/08/rizieres-mu-cang-chai-vietnam-conseils-voyage/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "rice-terraces",
+      "hmong",
+      "motorbike",
+      "photography",
+      "homestay",
+      "harvest"
+    ]
+  },
+  {
+    "id": "con-dao-hiking-trails",
+    "name": "Con Dao Island Hiking Trails",
+    "name_local": "Đường mòn Côn Đảo",
+    "country": "VN",
+    "region": "Ba Ria-Vung Tau",
+    "lat": 8.69,
+    "lng": 106.6,
+    "category": "trek",
+    "description_short": "Pristine hiking trails through old-growth jungle to empty beaches and crater-top viewpoints on Vietnam's most unspoilt island archipelago.",
+    "description_context": "Con Dao National Park covers most of Con Son island, with well-maintained trails including Love Peak, Bamboo Lagoon, Bang Beach, and God Mountain. The archipelago has some of Vietnam's greenest jungles, clearest waters, and least litter. Trails are easy to follow independently without a guide. A park ticket costs 60,000 VND but is rarely checked. Trailheads are 2-3km from Con Son town. Flights from HCMC or ferries from Vung Tau provide access. Best March-September for calm seas.",
+    "crowd_level": 2,
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.vietnamcoracle.com/hiking-the-con-dao-islands/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "hiking",
+      "island",
+      "national-park",
+      "jungle",
+      "beach",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "ky-co-beach-quy-nhon",
+    "name": "Ky Co Beach",
+    "name_local": "Bãi biển Kỳ Co",
+    "country": "VN",
+    "region": "Binh Dinh",
+    "lat": 13.85014,
+    "lng": 109.29181,
+    "category": "beach",
+    "description_short": "A sheltered turquoise cove near the fishing village of Nhon Ly, 25km north of Quy Nhon, where the mountains meet crystal-clear sea.",
+    "description_context": "Ky Co is accessible by motorbike or boat from Quy Nhon, a mid-coast city that most travellers skip between Nha Trang and Hoi An. The beach sits in a protected bay with clear water and dramatic cliff backdrop. Quy Nhon itself is refreshingly untouristy — no hassling, no inflated prices — with a beautiful bay beach and friendly locals. Nearby Nhon Ly fishing village offers a glimpse of working Vietnamese coastal life. Visit year-round; June-September is hottest.",
+    "crowd_level": 2,
+    "best_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "http://anomadicexistence.com/quy-nhon-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "beach",
+      "swimming",
+      "fishing-village",
+      "motorbike",
+      "coastal"
+    ]
+  },
+  {
+    "id": "chu-dang-ya-volcano",
+    "name": "Chu Dang Ya Volcano",
+    "name_local": "Núi lửa Chư Đăng Ya",
+    "country": "VN",
+    "region": "Gia Lai",
+    "lat": 14.1,
+    "lng": 108.05,
+    "category": "mountain",
+    "description_short": "A dormant million-year-old volcanic crater near Pleiku where wild sunflowers bloom in November amid coffee plantations and Bahnar villages.",
+    "description_context": "Chu Dang Ya sits 30km northeast of Pleiku in Chu Pah district, Gia Lai province. The crater is about 975m elevation and surrounded by the Central Highlands' signature mix of coffee, tea, and rubber plantations. The volcano is most photogenic in November when wild sunflowers carpet its slopes. The surrounding area features Bahnar communal houses and is virtually unvisited by foreign tourists. Combine with Pleiku's tea plantations and the scenic road to Kontum.",
+    "crowd_level": 2,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://worldwildbrice.net/2021/01/10/pleiku-vietnam-etape-photogenique/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "volcano",
+      "crater",
+      "sunflowers",
+      "coffee",
+      "central-highlands",
+      "photography"
+    ]
+  },
+  {
+    "id": "langbiang-peak-dalat",
+    "name": "Langbiang Peak",
+    "name_local": "Đỉnh Langbiang",
+    "country": "VN",
+    "region": "Lam Dong",
+    "lat": 12.05,
+    "lng": 108.43,
+    "category": "mountain",
+    "description_short": "A 2167m summit near Dalat offering a challenging jungle hike through changing vegetation zones to panoramic highland views.",
+    "description_context": "Langbiang is a 30-minute scooter ride from Dalat. Two trails lead up: a paved road to Radar base (1950m, 2 hours) and a longer 10.6km trail through pine forest transitioning to jungle, reaching the true peak at 2157m in about 4 hours. The final section involves steep vertical climbing. Entry fee at the visitor centre; jeep rides available to Radar base for non-hikers (300,000 VND private). Best in dry season November-April when trails are less slippery and views are clear.",
+    "crowd_level": 3,
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "hard",
+    "source_urls": [
+      "https://placesoflinda.com/hiking-lang-biang-mountain-in-dalat-vietnam/",
+      "https://thewanderwalkers.com/hiking-lang-biang-mountain-dalat/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "mountain",
+      "hiking",
+      "summit",
+      "jungle",
+      "dalat",
+      "highlands"
+    ]
+  },
+  {
+    "id": "cat-ba-lan-ha-bay",
+    "name": "Cat Ba Island & Lan Ha Bay",
+    "name_local": "Đảo Cát Bà - Vịnh Lan Hạ",
+    "country": "VN",
+    "region": "Hai Phong",
+    "lat": 20.73,
+    "lng": 107.05,
+    "category": "beach",
+    "description_short": "Ha Long Bay's quieter southern neighbour — the same dramatic karst seascape but with fewer tour boats, cheaper prices, and a laid-back island community.",
+    "description_context": "Cat Ba is the largest island in an archipelago of 367 islands at the southern edge of Ha Long Bay. Lan Ha Bay offers the same limestone karst landscape but with a fraction of the boat traffic. Cat Ba National Park covers half the island with diverse wildlife and hiking. Kayaking through Lan Ha Bay's floating fishing villages is the highlight. The island has about 13,000 residents and a welcoming, low-key vibe. Reachable by ferry from Hai Phong. Best March-October; avoid November-February monsoon winds.",
+    "crowd_level": 3,
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://www.addieweller.com/blog/cat-ba-island"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-01",
+    "tags": [
+      "island",
+      "kayaking",
+      "karst",
+      "beach",
+      "national-park",
+      "fishing-village",
+      "halong-alternative"
+    ]
+  },
+  {
+    "id": "tac-tinh-waterfall",
+    "name": "Tac Tinh Waterfall",
+    "name_local": "Thác Tác Tình",
+    "country": "VN",
+    "region": "Lai Chau",
+    "lat": 22.34735,
+    "lng": 103.6136,
+    "category": "waterfall",
+    "description_short": "A 130-metre waterfall plunging from the Hoang Lien Son range into a turquoise lake, steeped in a local legend of forbidden love.",
+    "description_context": "Located in Binh Lu commune, Tam Duong district, about 30 km southeast of Lai Chau town via National Road 4D. A short 3 km side road leads to the base. A 15-minute climb offers the best panoramic views. The surrounding valley is home to Dao ethnic communities. Best visited May to September when water flow is strongest.",
+    "crowd_level": 2,
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.journee-mondiale.com/en/discover-7-hidden-waterfalls-in-vietnam-i-found-a-secret-paradise/",
+      "https://yesd.org/waterfalls-vietnam-a-journey-through-natures-wonders/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-02",
+    "tags": [
+      "waterfall",
+      "hoang-lien-son",
+      "ethnic-minority",
+      "swimming",
+      "legend"
+    ]
+  },
+  {
+    "id": "pu-sam-cap-cave",
+    "name": "Pu Sam Cap Cave Complex",
+    "name_local": "Quần thể hang động Pu Sam Cáp",
+    "country": "VN",
+    "region": "Lai Chau",
+    "lat": 22.38538,
+    "lng": 103.41037,
+    "category": "cave",
+    "description_short": "A primeval cave system of 10+ chambers at 1,700 m altitude, rivalling Phong Nha in stalactite beauty but with almost no visitors.",
+    "description_context": "About 6 km west of Lai Chau city on provincial road 129 towards Sin Ho. Three main caves — Thien Mon (Heaven Gate), Thien Duong (Paradise), and Thuy Tinh (Glass) — are connected by half-hour forest treks through ancient orchid-draped trees. The caves feature iridescent stalactites, underground lakes, and cool breezes. Accessible year-round; dry season (October–March) is best for trekking between caves.",
+    "crowd_level": 1,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://vietnamnet.vn/en/pu-sam-cap-cave-the-hidden-charm-of-lai-chau-2049837.html"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-02",
+    "tags": [
+      "cave",
+      "stalactites",
+      "primeval-forest",
+      "adventure",
+      "off-grid"
+    ]
+  },
+  {
+    "id": "bim-bip-waterfall",
+    "name": "Bim Bip Waterfall",
+    "name_local": "Thác Bìm Bịp",
+    "country": "VN",
+    "region": "Dak Lak",
+    "lat": 12.35,
+    "lng": 108.22,
+    "category": "waterfall",
+    "description_short": "A four-tiered jungle waterfall originating from the Chu Yang Sin range, with crystal-clear pools perfect for wild swimming.",
+    "description_context": "Located in Nam Pa village, Yang Tao commune, Lak district, about 50 km southeast of Buon Ma Thuot along Highway 27. The waterfall is named after the coucal bird (Bìm Bịp) common in the area. Recognised as a national scenic spot in 2015. Each of the four stone tiers forms its own clear blue pool. Access requires a forest trek; best visited October to March during dry season.",
+    "crowd_level": 2,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.vietnamtwowheels.com/dalat-to-buon-ma-thuot-motorbike-tour/",
+      "https://shippedaway.com/dak-lak-top-things-to-do/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-02",
+    "tags": [
+      "waterfall",
+      "jungle",
+      "swimming",
+      "chu-yang-sin",
+      "national-scenic-spot"
+    ]
+  },
+  {
+    "id": "lak-lake-jun-village",
+    "name": "Lak Lake & Jun Village",
+    "name_local": "Hồ Lắk",
+    "country": "VN",
+    "region": "Dak Lak",
+    "lat": 12.419,
+    "lng": 108.184,
+    "category": "lake",
+    "description_short": "The largest natural freshwater lake in the Central Highlands, ringed by M'nong stilt-house villages and nicknamed the \"Ha Long Bay of the mountains.\"",
+    "description_context": "Located 50 km southeast of Buon Ma Thuot in Lak district. Jun Village on the lake's shore offers traditional M'nong longhouse homestays. Visitors can canoe on the lake at sunrise, visit ethnic markets on weekends, and explore surrounding coffee and pepper plantations by motorbike. Best visited November to April for dry weather and cool highland temperatures.",
+    "crowd_level": 3,
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://www.vietnamtwowheels.com/dalat-to-buon-ma-thuot-motorbike-tour/",
+      "https://ryukoch.com/en/blogs/buon-ma-thuot-travel-report",
+      "https://shippedaway.com/dak-lak-top-things-to-do/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-02",
+    "tags": [
+      "lake",
+      "ethnic-minority",
+      "mnong",
+      "homestay",
+      "central-highlands",
+      "motorbike"
+    ]
+  },
+  {
+    "id": "y-ty-cloud-hunting",
+    "name": "Y Ty Cloud-Hunting Village",
+    "name_local": "Y Tý",
+    "country": "VN",
+    "region": "Lao Cai",
+    "lat": 22.59,
+    "lng": 103.62,
+    "category": "village",
+    "description_short": "A remote highland village at 2,000 m where you wake above the clouds, surrounded by Ha Nhi earthen houses and golden rice terraces.",
+    "description_context": "Located in Bat Xat district, 70 km from Sapa. Home to Ha Nhi, Hmong, and Dao ethnic minorities. The Ha Nhi are known for their unique rammed-earth houses. Cloud hunting — photographing the sea of clouds blanketing the valleys — is best from October to April in early morning. The terraced rice fields turn golden in September–October. Access by motorbike or car from Lao Cai city; roads are rough but improving. Very few foreign tourists compared to Sapa.",
+    "crowd_level": 2,
+    "best_months": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://yesd.org/y-ty-a-hidden-gem-of-northern-vietnam/",
+      "https://wander-lush.org/northern-vietnam-off-the-beaten-track/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "village",
+      "cloud-hunting",
+      "rice-terraces",
+      "ethnic-minority",
+      "ha-nhi",
+      "photography",
+      "trekking"
+    ]
+  }
+]

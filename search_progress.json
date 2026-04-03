@@ -1,0 +1,53 @@
+{
+  "vietnam": {
+    "regions": [
+      "Ha Giang",
+      "Cao Bang",
+      "Lang Son",
+      "Bac Kan",
+      "Yen Bai",
+      "Son La",
+      "Lai Chau",
+      "Thanh Hoa",
+      "Quang Binh",
+      "Da Nang",
+      "Quang Ngai",
+      "Binh Dinh",
+      "Kon Tum",
+      "Gia Lai",
+      "Dak Lak",
+      "Lam Dong",
+      "Ba Ria-Vung Tau",
+      "Hai Phong",
+      "Lao Cai",
+      "Hoa Binh",
+      "Ninh Binh",
+      "Quang Nam",
+      "Phu Yen",
+      "Dak Nong",
+      "Ha Tinh",
+      "Nghe An"
+    ],
+    "searched": {
+      "Ha Giang": {"date": "2026-03-31", "blogs_found": 15, "spots_added": 4},
+      "Cao Bang": {"date": "2026-03-31", "blogs_found": 12, "spots_added": 3},
+      "Lang Son": {"date": "2026-03-31", "blogs_found": 8, "spots_added": 1},
+      "Bac Kan": {"date": "2026-04-01", "blogs_found": 6, "spots_added": 1},
+      "Yen Bai": {"date": "2026-04-01", "blogs_found": 10, "spots_added": 1},
+      "Son La": {"date": "2026-04-01", "blogs_found": 8, "spots_added": 1},
+      "Thanh Hoa": {"date": "2026-03-31", "blogs_found": 5, "spots_added": 1},
+      "Quang Binh": {"date": "2026-03-31", "blogs_found": 10, "spots_added": 1},
+      "Da Nang": {"date": "2026-03-31", "blogs_found": 4, "spots_added": 1},
+      "Quang Ngai": {"date": "2026-04-01", "blogs_found": 8, "spots_added": 1},
+      "Binh Dinh": {"date": "2026-04-01", "blogs_found": 5, "spots_added": 1},
+      "Kon Tum": {"date": "2026-04-01", "blogs_found": 6, "spots_added": 1},
+      "Gia Lai": {"date": "2026-04-01", "blogs_found": 4, "spots_added": 1},
+      "Lam Dong": {"date": "2026-04-01", "blogs_found": 5, "spots_added": 1},
+      "Ba Ria-Vung Tau": {"date": "2026-04-01", "blogs_found": 6, "spots_added": 1},
+      "Hai Phong": {"date": "2026-04-01", "blogs_found": 5, "spots_added": 1},
+      "Lai Chau": {"date": "2026-04-02", "blogs_found": 12, "spots_added": 2},
+      "Dak Lak": {"date": "2026-04-02", "blogs_found": 17, "spots_added": 2},
+      "Lao Cai": {"date": "2026-04-03", "blogs_found": 27, "spots_added": 1}
+    }
+  }
+}

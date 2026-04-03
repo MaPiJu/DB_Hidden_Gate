@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.*
+
+# Claude local data
+.claude/
+
+# Temp files
+/tmp/
+*.tmp

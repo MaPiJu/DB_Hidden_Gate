@@ -57,8 +57,7 @@ Each spot in `spots_database.json` follows this schema:
 ## Quality Rules
 
 1. **Personal blogs only** — reject commercial sites (TripAdvisor, Lonely Planet, Booking, GetYourGuide, AllTrails, Viator, YouTube, Reddit, Wikipedia).
-2. **Off-the-beaten-path** — reject ultra-tourist spots. A spot qualifies if crowd_level <= 3.
-3. **Blogger enthusiasm required** — only extract spots the blogger genuinely enjoyed or recommended. Look for positive sentiment signals in the text such as: "incredible", "breathtaking", "astonishing", "worth the trip", "highlight of the trip", "one of the best", "blown away", "highly recommend", "don't miss", "unforgettable", "spectacular", "hidden gem", "absolutely loved", "must-visit", "jaw-dropping". Reject spots the blogger found disappointing, overhyped, or merely mentioned in passing without personal enthusiasm.
+2. **Blogger enthusiasm required** — only extract spots the blogger genuinely enjoyed or recommended. Look for positive sentiment signals in the text such as: "incredible", "breathtaking", "astonishing", "worth the trip", "highlight of the trip", "one of the best", "blown away", "highly recommend", "don't miss", "unforgettable", "spectacular", "hidden gem", "absolutely loved", "must-visit", "jaw-dropping". Reject spots the blogger found disappointing, overhyped, or merely mentioned in passing without personal enthusiasm.
 4. **Factual extraction** — only record details explicitly stated or clearly implied in the source. Do not hallucinate distances, times, or features.
 5. **Original descriptions** — description_short and description_context must be original English text, not copied from blogs.
 6. **GPS required** — every spot must have lat/lng. Look up coordinates via web search if the blog doesn't provide them.

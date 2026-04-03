@@ -861,5 +861,257 @@
       "photography",
       "trekking"
     ]
+  },
+  {
+    "id": "mu-waterfall-hoa-binh",
+    "name": "Mu Waterfall",
+    "name_local": "Thác Mu",
+    "country": "VN",
+    "region": "Hoa Binh",
+    "lat": 20.46444,
+    "lng": 105.44417,
+    "category": "waterfall",
+    "description_short": "A six-tiered cascade fed by underground springs at the edge of the Truong Son range — pristine and almost unvisited beyond a handful of Muong villagers.",
+    "description_context": "Thác Mu drops through Tự Do commune in Lạc Sơn district, its Mu stream emerging from springs above 1,000 m and forming a series of pools you can swim in at the base. The falls are most dramatic May–September when monsoon rains turn the curtains of water a vivid white against the green hillside. The surrounding area is home to Muong minority communities, and the drive south from Hanoi (140 km) passes through typical market towns and forested valleys.",
+    "crowd_level": 1,
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://charlieontravel.com/hoa-binh-northern-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "waterfall",
+      "muong",
+      "swimming",
+      "mountain",
+      "lac-son"
+    ]
+  },
+  {
+    "id": "sung-village-da-bac",
+    "name": "Sung Village",
+    "name_local": "Xóm Sung",
+    "country": "VN",
+    "region": "Hoa Binh",
+    "lat": 20.7985,
+    "lng": 104.872,
+    "category": "village",
+    "description_short": "A remote Dao Tien village at 530 m in the mountains of Da Bac district, reached by community-run homestay treks through terraced hillsides.",
+    "description_context": "Sung village occupies a ridge in Cao Son commune, 22 km from Da Bac district centre, with the Bieu mountain range rising behind winding rice terraces. The Da Bac Community-Based Tourism cooperative organises overnight stays in traditional stilt houses with home-cooked meals and guided treks — one personal blogger described the whole Da Bac experience as 'absolutely gorgeous, far more beautiful than I was expecting' and 'one of the most authentic, rewarding tourism experiences in Northern Vietnam.' The village is 100% Dao Tien people, some of whom still practise traditional do-paper making. October to April is the best season for trekking in clear, cool conditions.",
+    "crowd_level": 1,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://wander-lush.org/community-based-tourism-vietnam-homestay/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "dao",
+      "community-tourism",
+      "homestay",
+      "terraced-rice",
+      "paper-making",
+      "da-bac"
+    ]
+  },
+  {
+    "id": "van-long-wetland-reserve",
+    "name": "Van Long Wetland Nature Reserve",
+    "name_local": "Khu bảo tồn thiên nhiên đất ngập nước Vân Long",
+    "country": "VN",
+    "region": "Ninh Binh",
+    "lat": 20.37,
+    "lng": 105.88,
+    "category": "lake",
+    "description_short": "Southeast Asia's only intact lowland inland wetland of its kind — a silent karst lagoon ringed by vertical cliffs, far quieter than Tam Coc or Trang An.",
+    "description_context": "Van Long spreads across Gia Van commune, Gia Vien district, 18 km from Ninh Binh city, offering two-hour rowing boat trips through flooded karst valleys and cave tunnels under the limestone. The water is glassy still and dark, reflecting sheer rock faces while boatwomen paddle without engines — one blogger called it simply 'the best boat ride in Vietnam.' It is a Ramsar-designated wetland and one of the last refuges for the Delacour's langur, Vietnam's most endangered primate. October to April brings cool, clear conditions; the rice paddies framing the approach road turn gold in October.",
+    "crowd_level": 2,
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://backpackmoments.com/van-long-nature-reserve-boat-ride/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "boat-ride",
+      "karst",
+      "wetland",
+      "bird-watching",
+      "langur",
+      "ramsar",
+      "rowing"
+    ]
+  },
+  {
+    "id": "cu-lao-cham-marine-reserve",
+    "name": "Cu Lao Cham Marine Reserve",
+    "name_local": "Khu bảo tồn biển Cù Lao Chàm",
+    "country": "VN",
+    "region": "Quang Nam",
+    "lat": 15.95897,
+    "lng": 108.5073,
+    "category": "beach",
+    "description_short": "An eight-island UNESCO biosphere archipelago 15 km off Hoi An, with some of Vietnam's healthiest coral reefs and a working Cham fishing village.",
+    "description_context": "Cu Lao Cham's marine protected area covers 277 coral species and 250 fish species around Tan Hiep commune, reached by a 20-minute speedboat from Cua Dai Wharf in Hoi An. Snorkellers find exceptional visibility in the calm bays between Bai Huong and Bai Ong beaches, where coral gardens start in under 2 m of water. The resident fishing village provides fresh seafood lunches and a glimpse of unhurried island life well beyond Hoi An's tailors and tourist cafes. Speedboats run only March–September when seas are calm; the rest of the year the islands close to tourism.",
+    "crowd_level": 2,
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://expatolife.com/cham-islands-vietnam/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "snorkeling",
+      "diving",
+      "coral",
+      "unesco",
+      "marine",
+      "island",
+      "cham"
+    ]
+  },
+  {
+    "id": "da-dia-reef-phu-yen",
+    "name": "Da Dia Reef",
+    "name_local": "Gành Đá Đĩa",
+    "country": "VN",
+    "region": "Phu Yen",
+    "lat": 13.35706,
+    "lng": 109.29409,
+    "category": "other",
+    "description_short": "A coastal field of perfectly hexagonal basalt columns rising from the sea — Vietnam's Giant's Causeway, almost deserted before 9 am.",
+    "description_context": "Gành Đá Đĩa is a 50 m stretch of tightly-packed basalt organ-pipe columns in An Ninh Dong commune, Tuy An district, formed by ancient lava cooling in the sea. At dawn, mist drifts over the geometric rocks as the first light picks out each hexagonal face — one blogger described clambering across them at sunrise as 'an ethereal, almost mystical atmosphere.' The reef sits inside the Phu Yen UNESCO Global Geopark and is easily combined with Ô Loan Lagoon and Vung Ro Bay on a coastal motorbike loop. January to August is the dry season on this south-central coast.",
+    "crowd_level": 2,
+    "best_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://asiaauthentictravel.com/blog/reviews-phu-yen-tour/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "basalt",
+      "volcanic",
+      "coastal",
+      "sunrise",
+      "geopark",
+      "hexagonal",
+      "motorbike"
+    ]
+  },
+  {
+    "id": "dray-sap-waterfall-dak-nong",
+    "name": "D'Ray Sap Waterfall",
+    "name_local": "Thác Dray Sap",
+    "country": "VN",
+    "region": "Dak Nong",
+    "lat": 12.329,
+    "lng": 107.728,
+    "category": "waterfall",
+    "description_short": "A 100-metre-wide curtain of water crashing into the Krong No river inside a UNESCO Geopark, with a dry cave tunnel behind the falls to walk through.",
+    "description_context": "Dray Sap ('Waterfall of Smoke' in Mnong) cascades 12 m over a basalt ledge in Dak Sor commune, Krong No district, within the Dak Nong UNESCO Global Geopark — Vietnam Coracle describes the surrounding landscape as full of 'thundering waterfalls, big trees in shimmering jungles, placid lakes.' A large cave arch behind the falls stays dry, letting visitors watch the entire curtain of water from inside. The site pairs well with the nearby D'Ray Nur falls for a half-day waterfall loop, and the geopark motorbike circuit is one of central-highland Vietnam's great undiscovered rides. May to October is rainy season, when the falls are at maximum power.",
+    "crowd_level": 2,
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "access_difficulty": "easy",
+    "source_urls": [
+      "https://www.vietnamcoracle.com/dak-nong-geopark%E2%86%94dong-nai-river-motorbike-loop/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "waterfall",
+      "geopark",
+      "cave",
+      "primary-forest",
+      "motorbike",
+      "mnong",
+      "basalt"
+    ]
+  },
+  {
+    "id": "khe-kem-waterfall-nghe-an",
+    "name": "Khe Kem Waterfall",
+    "name_local": "Thác Khe Kèm",
+    "country": "VN",
+    "region": "Nghe An",
+    "lat": 18.984,
+    "lng": 104.972,
+    "category": "waterfall",
+    "description_short": "A towering free-fall deep in Pu Mat National Park — a silver streak through dense primary jungle, reached by a 4 km trail along Kem stream.",
+    "description_context": "Khe Kem drops in a single unbroken plunge over moss-covered rock in Luc Da commune, Con Cuong district, inside Pu Mat National Park roughly 20 km from Con Cuong town. Tom Dibb of Vietnam Coracle, who first visited in 2009 and returned in 2023, wrote that 'the natural setting of the falls remains just as beautiful' — the approach trail follows the stream through lowland rainforest where gibbons call from the canopy. An entry fee and national park permit are required; some sections need a local guide. May to September is the wet season when the falls run at full force.",
+    "crowd_level": 1,
+    "best_months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "access_difficulty": "moderate",
+    "source_urls": [
+      "https://www.vietnamcoracle.com/khe-kem-waterfall/"
+    ],
+    "source_type": "personal_blog",
+    "discovered_at": "2026-04-03",
+    "tags": [
+      "waterfall",
+      "national-park",
+      "trekking",
+      "jungle",
+      "pu-mat",
+      "gibbons",
+      "permit-required"
+    ]
   }
 ]

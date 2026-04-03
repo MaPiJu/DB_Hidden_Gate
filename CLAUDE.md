@@ -2,6 +2,32 @@
 
 A curated database of off-the-beaten-path travel spots discovered from personal travel blogs.
 
+## Quick Commands
+
+When the user says **"search \<country\>"** (e.g. "search vietnam"), do the following automatically:
+
+1. Read `search_progress.json` to find unsearched regions for that country.
+2. If the country has no entry yet, generate a list of travel-relevant regions and save to `search_progress.json`.
+3. For each unsearched region, one at a time:
+   a. Run: `python3 scripts/search_blogs.py "<Region> <country>"`
+      (requires env var `BRAVE_API_KEY` — if not set, ask the user for it)
+   b. Read the JSON output. For each blog, check: is it a personal blog (not a travel agency)? Does the blogger show genuine enthusiasm? Is the spot off-the-beaten-path (crowd_level ≤ 3)?
+   c. For qualifying spots, look up GPS coordinates via web search.
+   d. Add new spots to `spots_database.json` following the schema below.
+   e. Update `search_progress.json` with date and spots_added count.
+4. After modifying any files, **commit and push to GitHub**:
+   ```
+   git add spots_database.json search_progress.json
+   git commit -m "Add <N> spots from <Region>, <Country>"
+   git push
+   ```
+5. Continue to the next unsearched region. Stop after each region and report what was found before continuing.
+
+## Environment Setup
+
+- **BRAVE_API_KEY** must be set as an environment variable for blog search to work.
+- Python dependencies: `pip install httpx trafilatura lxml_html_clean`
+
 ## Spot JSON Schema
 
 Each spot in `spots_database.json` follows this schema:

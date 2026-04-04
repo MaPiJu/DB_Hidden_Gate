@@ -27,12 +27,11 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install httpx trafilatura lxml_html_clean anthropic
+        run: pip install httpx trafilatura lxml_html_clean
 
       - name: Run search pipeline
         env:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python3 scripts/run_pipeline.py \
             --country "${{ github.event.inputs.country }}" \
@@ -42,12 +41,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add spots_database.json search_progress.json
+          git add blogs/ search_progress.json
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No new blogs found"
           else
             COUNTRY="${{ github.event.inputs.country }}"
-            SPOTS_ADDED=$(git diff --cached spots_database.json | grep '^\+.*"id"' | wc -l)
-            git commit -m "Add ${SPOTS_ADDED} spots from ${COUNTRY} (automated search)"
+            git commit -m "Fetch blogs for ${COUNTRY} regions (automated)"
             git push
           fi

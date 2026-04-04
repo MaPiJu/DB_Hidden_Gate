@@ -4,29 +4,51 @@ A curated database of off-the-beaten-path travel spots discovered from personal 
 
 ## Quick Commands
 
-When the user says **"search \<country\>"** (e.g. "search vietnam"), do the following automatically:
+### `analyze <country>` (e.g. "analyze vietnam")
 
-1. Read `search_progress.json` to find unsearched regions for that country.
-2. If the country has no entry yet, generate a list of travel-relevant regions and save to `search_progress.json`.
-3. For each unsearched region, one at a time:
-   a. Run: `python3 scripts/search_blogs.py "<Region> <country>"`
-      (requires env var `BRAVE_API_KEY` — if not set, ask the user for it)
-   b. Read the JSON output. For each blog, check: is it a personal blog (not a travel agency)? Does the blogger show genuine enthusiasm? Is the spot off-the-beaten-path (crowd_level ≤ 3)?
+Analyze fetched blogs and extract spots. Do the following automatically:
+
+1. Read `search_progress.json` to find regions with status `"fetched"` (not yet `"analyzed"`).
+2. For each fetched region:
+   a. Read the blog JSON from `blogs/<country>/<region-slug>.json`.
+   b. For each blog, check: is it a personal blog (not a travel agency)? Does the blogger show genuine enthusiasm? Is the spot off-the-beaten-path (crowd_level ≤ 3)?
    c. For qualifying spots, look up GPS coordinates via web search.
    d. Add new spots to `spots_database.json` following the schema below.
-   e. Update `search_progress.json` with date and spots_added count.
-4. After modifying any files, **commit and push to GitHub**:
+   e. Update `search_progress.json`: set status to `"analyzed"` and add `spots_added` count.
+3. After modifying any files, **commit and push to GitHub**:
    ```
    git add spots_database.json search_progress.json
    git commit -m "Add <N> spots from <Region>, <Country>"
    git push
    ```
-5. Continue to the next unsearched region. Stop after each region and report what was found before continuing.
+4. Continue to the next fetched region. Stop after each region and report what was found before continuing.
+
+### `search <country>` (e.g. "search vietnam")
+
+If `BRAVE_API_KEY` is available, run the full pipeline locally:
+
+1. Read `search_progress.json` to find unsearched regions for that country.
+2. If the country has no entry yet, generate a list of travel-relevant regions and save to `search_progress.json`.
+3. For each unsearched region, one at a time:
+   a. Run: `python3 scripts/search_blogs.py "<Region> <country>"`
+   b. Save output to `blogs/<country>/<region-slug>.json`.
+   c. Analyze the blogs (same as `analyze` command above).
+   d. Update `search_progress.json` with status `"analyzed"`.
+4. Commit and push after each region.
+
+If `BRAVE_API_KEY` is NOT available (e.g. cloud environment), tell the user:
+> "Blog fetching requires BRAVE_API_KEY. Trigger the GitHub Action from the Actions tab to fetch blogs first, then say `analyze <country>` to extract spots."
 
 ## Environment Setup
 
-- **BRAVE_API_KEY** must be set as an environment variable for blog search to work.
+- **BRAVE_API_KEY** — needed for blog search. Set as env var locally, or as a GitHub secret for the Action.
+- **GitHub Action** — go to the repo's Actions tab → "Search Travel Spots" → "Run workflow" to fetch blogs from any device.
 - Python dependencies: `pip install httpx trafilatura lxml_html_clean`
+
+## Two-Step Workflow (for mobile/cloud)
+
+1. **Fetch** — trigger the GitHub Action "Search Travel Spots" from the Actions tab (works from phone). It runs `search_blogs.py` for each region, saves raw blog JSON to `blogs/`, and pushes.
+2. **Analyze** — open Claude Code and say `analyze <country>`. Claude reads the fetched blogs, extracts qualifying spots, and pushes results.
 
 ## Spot JSON Schema
 

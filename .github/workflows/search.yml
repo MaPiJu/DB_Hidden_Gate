@@ -1,0 +1,53 @@
+name: Search Travel Spots
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: 'Country to search (e.g., vietnam, morocco)'
+        required: true
+        default: 'vietnam'
+      max_regions:
+        description: 'Max regions to search in this run (0 = all remaining)'
+        required: false
+        default: '3'
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install httpx trafilatura lxml_html_clean anthropic
+
+      - name: Run search pipeline
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python3 scripts/run_pipeline.py \
+            --country "${{ github.event.inputs.country }}" \
+            --max-regions "${{ github.event.inputs.max_regions }}"
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add spots_database.json search_progress.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            COUNTRY="${{ github.event.inputs.country }}"
+            SPOTS_ADDED=$(git diff --cached spots_database.json | grep '^\+.*"id"' | wc -l)
+            git commit -m "Add ${SPOTS_ADDED} spots from ${COUNTRY} (automated search)"
+            git push
+          fi
